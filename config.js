@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Hi cậu',
     introDesc: `Bây h cậu mà thoát ra là phải làm ny mình đây này`,
     btnIntro: 'Exit',
-    title: 'Yêu em ko cậu ? :)))',
+    title: 'Yêu Mình ko cậu ? :)))',
     desc: 'Nhắc lại là thoát ra là mình biết và chị phải làm ny mình ',
     btnYes: 'có chứ',
     btnNo: 'Không:3',
