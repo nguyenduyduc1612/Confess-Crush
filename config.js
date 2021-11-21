@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Bây h cậu mà thoát ra là phải làm ny mình đây này`,
     btnIntro: ':))))',
     title: 'Yêu Mình ko cậu ? :)))',
-    desc: 'Nhắc lại là thoát ra là mình biết và chị phải làm ny mình ',
+    desc: 'Nhắc lại là thoát ra là mình biết và cậu phải làm ny mình ',
     btnYes: 'có chứ',
     btnNo: 'Không:3',
     question: 'Ỏ mình cũng v á',
